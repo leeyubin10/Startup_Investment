@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="employee" attr.type="long"/>
+<key id="d0" for="node" attr.name="sales" attr.type="long"/>
+<graph edgedefault="undirected"><node id="쿠팡_쿠팡">
+  <data key="d0">10000</data>
+  <data key="d1">10000</data>
+</node>
+<node id="카카오뱅크_카카오뱅크">
+  <data key="d0">1553</data>
+  <data key="d1">1553</data>
+</node>
+<node id="토스뱅크_토스뱅크">
+  <data key="d0">532</data>
+  <data key="d1">532</data>
+</node>
+<node id="컬리_컬리">
+  <data key="d0">2668</data>
+  <data key="d1">2668</data>
+</node>
+<node id="비바리퍼블리카_토스">
+  <data key="d0">942</data>
+  <data key="d1">942</data>
+</node>
+<node id="토스페이먼츠_토스비즈니스">
+  <data key="d0">263</data>
+  <data key="d1">263</data>
+</node>
+<node id="티맵모빌리티_티맵">
+  <data key="d0">372</data>
+  <data key="d1">372</data>
+</node>
+<node id="두나무_업비트">
+  <data key="d0">597</data>
+  <data key="d1">597</data>
+</node>
+<node id="하이브">
+  <data key="d0">796</data>
+  <data key="d1">796</data>
+</node>
+<node id="우아한형제들_배달의민족">
+  <data key="d0">2201</data>
+  <data key="d1">2201</data>
+</node>
+<node id="무신사_무신사">
+  <data key="d0">1555</data>
+  <data key="d1">1555</data>
+</node>
+<node id="프레시지_프레시지">
+  <data key="d0">354</data>
+  <data key="d1">354</data>
+</node>
+<node id="야놀자_야놀자">
+  <data key="d0">907</data>
+  <data key="d1">907</data>
+</node>
+<node id="팀프레시_팀프레시">
+  <data key="d0">396</data>
+  <data key="d1">396</data>
+</node>
+<node id="쏘카_쏘카">
+  <data key="d0">432</data>
+  <data key="d1">432</data>
+</node>
+<node id="크림_크림">
+  <data key="d0">174</data>
+  <data key="d1">174</data>
+</node>
+<node id="버킷플레이스_오늘의집">
+  <data key="d0">660</data>
+  <data key="d1">660</data>
+</node>
+<node id="스마트스코어_스마트스코어">
+  <data key="d0">307</data>
+  <data key="d1">307</data>
+</node>
+<node id="에이블리코퍼레이션_에이블리">
+  <data key="d0">299</data>
+  <data key="d1">299</data>
+</node>
+<node id="그로비교육_슈퍼브이">
+  <data key="d0">125</data>
+  <data key="d1">125</data>
+</node>
+<node id="리디_리디">
+  <data key="d0">470</data>
+  <data key="d1">470</data>
+</node>
+<node id="부릉_부릉프렌즈">
+  <data key="d0">195</data>
+  <data key="d1">195</data>
+</node>
+<node id="몰로코_몰로코">
+  <data key="d0">147</data>
+  <data key="d1">147</data>
+</node>
+<node id="딜리셔스_신상마켓">
+  <data key="d0">218</data>
+  <data key="d1">218</data>
+</node>
+<node id="트릿지_트릿지">
+  <data key="d0">202</data>
+  <data key="d1">202</data>
+</node>
+<node id="스마트푸드네트웍스_차별화상회">
+  <data key="d0">104</data>
+  <data key="d1">104</data>
+</node>
+<node id="카카오브이엑스_카카오골프예약">
+  <data key="d0">499</data>
+  <data key="d1">499</data>
+</node>
+<node id="오아시스_오아시스마켓">
+  <data key="d0">860</data>
+  <data key="d1">860</data>
+</node>
+<node id="한국신용데이터_캐시노트">
+  <data key="d0">175</data>
+  <data key="d1">175</data>
+</node>
+<node id="여기어때_여기어떄">
+  <data key="d0">579</data>
+  <data key="d1">579</data>
+</node>
+<node id="데이원컴퍼니_패스트캠퍼스">
+  <data key="d0">478</data>
+  <data key="d1">478</data>
+</node>
+<node id="뉴넥스_브랜디">
+  <data key="d0">159</data>
+  <data key="d1">159</data>
+</node>
+<node id="직방_직방">
+  <data key="d0">281</data>
+  <data key="d1">281</data>
+</node>
+<node id="패스트파이브_패스트파이브">
+  <data key="d0">268</data>
+  <data key="d1">268</data>
+</node>
+<node id="피스피스스튜디오_마르디메크르디">
+  <data key="d0">95</data>
+  <data key="d1">95</data>
+</node>
+<node id="와디즈_와디즈">
+  <data key="d0">312</data>
+  <data key="d1">312</data>
+</node>
+<node id="오케스트로_심포니 인공지능">
+  <data key="d0">445</data>
+  <data key="d1">445</data>
+</node>
+<node id="트렌비_트렌비">
+  <data key="d0">73</data>
+  <data key="d1">73</data>
+</node>
+<node id="의식주컴퍼니_런드리고">
+  <data key="d0">576</data>
+  <data key="d1">576</data>
+</node>
+<node id="안다르_안다르">
+  <data key="d0">87</data>
+  <data key="d1">87</data>
+</node>
+<node id="마인이스_차란">
+  <data key="d0">47</data>
+  <data key="d1">47</data>
+</node>
+<node id="베어로보틱스_서비">
+  <data key="d0">125</data>
+  <data key="d1">125</data>
+</node>
+<node id="파스토_파스토">
+  <data key="d0">107</data>
+  <data key="d1">107</data>
+</node>
+<node id="라포랩스_퀸잇">
+  <data key="d0">141</data>
+  <data key="d1">141</data>
+</node>
+<node id="발란_발란">
+  <data key="d0">58</data>
+  <data key="d1">58</data>
+</node>
+<node id="정육각_정육각">
+  <data key="d0">128</data>
+  <data key="d1">128</data>
+</node>
+<node id="핏펫_핏펫">
+  <data key="d0">114</data>
+  <data key="d1">114</data>
+</node>
+<node id="레진엔터테인먼트_레진코믹스">
+  <data key="d0">196</data>
+  <data key="d1">196</data>
+</node>
+<node id="더스윙_스윙">
+  <data key="d0">53</data>
+  <data key="d1">53</data>
+</node>
+<node id="밀리의서재_밀리의서재">
+  <data key="d0">161</data>
+  <data key="d1">161</data>
+</node>
+<edge source="쿠팡_쿠팡" target="컬리_컬리"/>
+<edge source="쿠팡_쿠팡" target="우아한형제들_배달의민족"/>
+<edge source="쿠팡_쿠팡" target="무신사_무신사"/>
+<edge source="쿠팡_쿠팡" target="프레시지_프레시지"/>
+<edge source="쿠팡_쿠팡" target="쏘카_쏘카"/>
+<edge source="쿠팡_쿠팡" target="크림_크림"/>
+<edge source="쿠팡_쿠팡" target="버킷플레이스_오늘의집"/>
+<edge source="쿠팡_쿠팡" target="에이블리코퍼레이션_에이블리"/>
+<edge source="쿠팡_쿠팡" target="딜리셔스_신상마켓"/>
+<edge source="쿠팡_쿠팡" target="트릿지_트릿지"/>
+<edge source="쿠팡_쿠팡" target="오아시스_오아시스마켓"/>
+<edge source="쿠팡_쿠팡" target="뉴넥스_브랜디"/>
+<edge source="쿠팡_쿠팡" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="쿠팡_쿠팡" target="와디즈_와디즈"/>
+<edge source="쿠팡_쿠팡" target="트렌비_트렌비"/>
+<edge source="쿠팡_쿠팡" target="안다르_안다르"/>
+<edge source="쿠팡_쿠팡" target="라포랩스_퀸잇"/>
+<edge source="쿠팡_쿠팡" target="발란_발란"/>
+<edge source="쿠팡_쿠팡" target="정육각_정육각"/>
+<edge source="쿠팡_쿠팡" target="마인이스_차란"/>
+<edge source="카카오뱅크_카카오뱅크" target="토스뱅크_토스뱅크"/>
+<edge source="카카오뱅크_카카오뱅크" target="비바리퍼블리카_토스"/>
+<edge source="카카오뱅크_카카오뱅크" target="토스페이먼츠_토스비즈니스"/>
+<edge source="카카오뱅크_카카오뱅크" target="두나무_업비트"/>
+<edge source="카카오뱅크_카카오뱅크" target="한국신용데이터_캐시노트"/>
+<edge source="카카오뱅크_카카오뱅크" target="핏펫_핏펫"/>
+<edge source="카카오뱅크_카카오뱅크" target="마인이스_차란"/>
+<edge source="토스뱅크_토스뱅크" target="비바리퍼블리카_토스"/>
+<edge source="토스뱅크_토스뱅크" target="토스페이먼츠_토스비즈니스"/>
+<edge source="토스뱅크_토스뱅크" target="두나무_업비트"/>
+<edge source="토스뱅크_토스뱅크" target="한국신용데이터_캐시노트"/>
+<edge source="토스뱅크_토스뱅크" target="핏펫_핏펫"/>
+<edge source="토스뱅크_토스뱅크" target="마인이스_차란"/>
+<edge source="컬리_컬리" target="우아한형제들_배달의민족"/>
+<edge source="컬리_컬리" target="무신사_무신사"/>
+<edge source="컬리_컬리" target="프레시지_프레시지"/>
+<edge source="컬리_컬리" target="쏘카_쏘카"/>
+<edge source="컬리_컬리" target="크림_크림"/>
+<edge source="컬리_컬리" target="버킷플레이스_오늘의집"/>
+<edge source="컬리_컬리" target="에이블리코퍼레이션_에이블리"/>
+<edge source="컬리_컬리" target="딜리셔스_신상마켓"/>
+<edge source="컬리_컬리" target="트릿지_트릿지"/>
+<edge source="컬리_컬리" target="오아시스_오아시스마켓"/>
+<edge source="컬리_컬리" target="뉴넥스_브랜디"/>
+<edge source="컬리_컬리" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="컬리_컬리" target="와디즈_와디즈"/>
+<edge source="컬리_컬리" target="트렌비_트렌비"/>
+<edge source="컬리_컬리" target="안다르_안다르"/>
+<edge source="컬리_컬리" target="라포랩스_퀸잇"/>
+<edge source="컬리_컬리" target="발란_발란"/>
+<edge source="컬리_컬리" target="정육각_정육각"/>
+<edge source="컬리_컬리" target="팀프레시_팀프레시"/>
+<edge source="컬리_컬리" target="부릉_부릉프렌즈"/>
+<edge source="컬리_컬리" target="스마트푸드네트웍스_차별화상회"/>
+<edge source="컬리_컬리" target="마인이스_차란"/>
+<edge source="컬리_컬리" target="파스토_파스토"/>
+<edge source="비바리퍼블리카_토스" target="토스페이먼츠_토스비즈니스"/>
+<edge source="비바리퍼블리카_토스" target="두나무_업비트"/>
+<edge source="비바리퍼블리카_토스" target="한국신용데이터_캐시노트"/>
+<edge source="비바리퍼블리카_토스" target="핏펫_핏펫"/>
+<edge source="비바리퍼블리카_토스" target="마인이스_차란"/>
+<edge source="토스페이먼츠_토스비즈니스" target="두나무_업비트"/>
+<edge source="토스페이먼츠_토스비즈니스" target="한국신용데이터_캐시노트"/>
+<edge source="토스페이먼츠_토스비즈니스" target="핏펫_핏펫"/>
+<edge source="토스페이먼츠_토스비즈니스" target="마인이스_차란"/>
+<edge source="티맵모빌리티_티맵" target="쏘카_쏘카"/>
+<edge source="티맵모빌리티_티맵" target="더스윙_스윙"/>
+<edge source="티맵모빌리티_티맵" target="마인이스_차란"/>
+<edge source="두나무_업비트" target="한국신용데이터_캐시노트"/>
+<edge source="두나무_업비트" target="핏펫_핏펫"/>
+<edge source="두나무_업비트" target="마인이스_차란"/>
+<edge source="하이브" target="리디_리디"/>
+<edge source="하이브" target="데이원컴퍼니_패스트캠퍼스"/>
+<edge source="하이브" target="레진엔터테인먼트_레진코믹스"/>
+<edge source="하이브" target="밀리의서재_밀리의서재"/>
+<edge source="하이브" target="마인이스_차란"/>
+<edge source="우아한형제들_배달의민족" target="무신사_무신사"/>
+<edge source="우아한형제들_배달의민족" target="프레시지_프레시지"/>
+<edge source="우아한형제들_배달의민족" target="쏘카_쏘카"/>
+<edge source="우아한형제들_배달의민족" target="크림_크림"/>
+<edge source="우아한형제들_배달의민족" target="버킷플레이스_오늘의집"/>
+<edge source="우아한형제들_배달의민족" target="에이블리코퍼레이션_에이블리"/>
+<edge source="우아한형제들_배달의민족" target="딜리셔스_신상마켓"/>
+<edge source="우아한형제들_배달의민족" target="트릿지_트릿지"/>
+<edge source="우아한형제들_배달의민족" target="오아시스_오아시스마켓"/>
+<edge source="우아한형제들_배달의민족" target="뉴넥스_브랜디"/>
+<edge source="우아한형제들_배달의민족" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="우아한형제들_배달의민족" target="와디즈_와디즈"/>
+<edge source="우아한형제들_배달의민족" target="트렌비_트렌비"/>
+<edge source="우아한형제들_배달의민족" target="안다르_안다르"/>
+<edge source="우아한형제들_배달의민족" target="라포랩스_퀸잇"/>
+<edge source="우아한형제들_배달의민족" target="발란_발란"/>
+<edge source="우아한형제들_배달의민족" target="정육각_정육각"/>
+<edge source="우아한형제들_배달의민족" target="팀프레시_팀프레시"/>
+<edge source="우아한형제들_배달의민족" target="부릉_부릉프렌즈"/>
+<edge source="우아한형제들_배달의민족" target="스마트푸드네트웍스_차별화상회"/>
+<edge source="우아한형제들_배달의민족" target="마인이스_차란"/>
+<edge source="우아한형제들_배달의민족" target="파스토_파스토"/>
+<edge source="무신사_무신사" target="프레시지_프레시지"/>
+<edge source="무신사_무신사" target="쏘카_쏘카"/>
+<edge source="무신사_무신사" target="크림_크림"/>
+<edge source="무신사_무신사" target="버킷플레이스_오늘의집"/>
+<edge source="무신사_무신사" target="에이블리코퍼레이션_에이블리"/>
+<edge source="무신사_무신사" target="딜리셔스_신상마켓"/>
+<edge source="무신사_무신사" target="트릿지_트릿지"/>
+<edge source="무신사_무신사" target="오아시스_오아시스마켓"/>
+<edge source="무신사_무신사" target="뉴넥스_브랜디"/>
+<edge source="무신사_무신사" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="무신사_무신사" target="와디즈_와디즈"/>
+<edge source="무신사_무신사" target="트렌비_트렌비"/>
+<edge source="무신사_무신사" target="안다르_안다르"/>
+<edge source="무신사_무신사" target="라포랩스_퀸잇"/>
+<edge source="무신사_무신사" target="발란_발란"/>
+<edge source="무신사_무신사" target="정육각_정육각"/>
+<edge source="무신사_무신사" target="마인이스_차란"/>
+<edge source="프레시지_프레시지" target="쏘카_쏘카"/>
+<edge source="프레시지_프레시지" target="크림_크림"/>
+<edge source="프레시지_프레시지" target="버킷플레이스_오늘의집"/>
+<edge source="프레시지_프레시지" target="에이블리코퍼레이션_에이블리"/>
+<edge source="프레시지_프레시지" target="딜리셔스_신상마켓"/>
+<edge source="프레시지_프레시지" target="트릿지_트릿지"/>
+<edge source="프레시지_프레시지" target="오아시스_오아시스마켓"/>
+<edge source="프레시지_프레시지" target="뉴넥스_브랜디"/>
+<edge source="프레시지_프레시지" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="프레시지_프레시지" target="와디즈_와디즈"/>
+<edge source="프레시지_프레시지" target="트렌비_트렌비"/>
+<edge source="프레시지_프레시지" target="안다르_안다르"/>
+<edge source="프레시지_프레시지" target="라포랩스_퀸잇"/>
+<edge source="프레시지_프레시지" target="발란_발란"/>
+<edge source="프레시지_프레시지" target="정육각_정육각"/>
+<edge source="프레시지_프레시지" target="팀프레시_팀프레시"/>
+<edge source="프레시지_프레시지" target="마인이스_차란"/>
+<edge source="야놀자_야놀자" target="여기어때_여기어떄"/>
+<edge source="야놀자_야놀자" target="마인이스_차란"/>
+<edge source="팀프레시_팀프레시" target="부릉_부릉프렌즈"/>
+<edge source="팀프레시_팀프레시" target="딜리셔스_신상마켓"/>
+<edge source="팀프레시_팀프레시" target="트릿지_트릿지"/>
+<edge source="팀프레시_팀프레시" target="스마트푸드네트웍스_차별화상회"/>
+<edge source="팀프레시_팀프레시" target="파스토_파스토"/>
+<edge source="팀프레시_팀프레시" target="오아시스_오아시스마켓"/>
+<edge source="팀프레시_팀프레시" target="정육각_정육각"/>
+<edge source="팀프레시_팀프레시" target="마인이스_차란"/>
+<edge source="쏘카_쏘카" target="크림_크림"/>
+<edge source="쏘카_쏘카" target="버킷플레이스_오늘의집"/>
+<edge source="쏘카_쏘카" target="에이블리코퍼레이션_에이블리"/>
+<edge source="쏘카_쏘카" target="딜리셔스_신상마켓"/>
+<edge source="쏘카_쏘카" target="트릿지_트릿지"/>
+<edge source="쏘카_쏘카" target="오아시스_오아시스마켓"/>
+<edge source="쏘카_쏘카" target="뉴넥스_브랜디"/>
+<edge source="쏘카_쏘카" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="쏘카_쏘카" target="와디즈_와디즈"/>
+<edge source="쏘카_쏘카" target="트렌비_트렌비"/>
+<edge source="쏘카_쏘카" target="안다르_안다르"/>
+<edge source="쏘카_쏘카" target="라포랩스_퀸잇"/>
+<edge source="쏘카_쏘카" target="발란_발란"/>
+<edge source="쏘카_쏘카" target="정육각_정육각"/>
+<edge source="쏘카_쏘카" target="마인이스_차란"/>
+<edge source="쏘카_쏘카" target="더스윙_스윙"/>
+<edge source="크림_크림" target="버킷플레이스_오늘의집"/>
+<edge source="크림_크림" target="에이블리코퍼레이션_에이블리"/>
+<edge source="크림_크림" target="딜리셔스_신상마켓"/>
+<edge source="크림_크림" target="트릿지_트릿지"/>
+<edge source="크림_크림" target="오아시스_오아시스마켓"/>
+<edge source="크림_크림" target="뉴넥스_브랜디"/>
+<edge source="크림_크림" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="크림_크림" target="와디즈_와디즈"/>
+<edge source="크림_크림" target="트렌비_트렌비"/>
+<edge source="크림_크림" target="안다르_안다르"/>
+<edge source="크림_크림" target="라포랩스_퀸잇"/>
+<edge source="크림_크림" target="발란_발란"/>
+<edge source="크림_크림" target="정육각_정육각"/>
+<edge source="크림_크림" target="마인이스_차란"/>
+<edge source="버킷플레이스_오늘의집" target="에이블리코퍼레이션_에이블리"/>
+<edge source="버킷플레이스_오늘의집" target="딜리셔스_신상마켓"/>
+<edge source="버킷플레이스_오늘의집" target="트릿지_트릿지"/>
+<edge source="버킷플레이스_오늘의집" target="오아시스_오아시스마켓"/>
+<edge source="버킷플레이스_오늘의집" target="뉴넥스_브랜디"/>
+<edge source="버킷플레이스_오늘의집" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="버킷플레이스_오늘의집" target="와디즈_와디즈"/>
+<edge source="버킷플레이스_오늘의집" target="트렌비_트렌비"/>
+<edge source="버킷플레이스_오늘의집" target="안다르_안다르"/>
+<edge source="버킷플레이스_오늘의집" target="라포랩스_퀸잇"/>
+<edge source="버킷플레이스_오늘의집" target="발란_발란"/>
+<edge source="버킷플레이스_오늘의집" target="정육각_정육각"/>
+<edge source="버킷플레이스_오늘의집" target="핏펫_핏펫"/>
+<edge source="버킷플레이스_오늘의집" target="의식주컴퍼니_런드리고"/>
+<edge source="버킷플레이스_오늘의집" target="마인이스_차란"/>
+<edge source="스마트스코어_스마트스코어" target="안다르_안다르"/>
+<edge source="스마트스코어_스마트스코어" target="마인이스_차란"/>
+<edge source="에이블리코퍼레이션_에이블리" target="딜리셔스_신상마켓"/>
+<edge source="에이블리코퍼레이션_에이블리" target="트릿지_트릿지"/>
+<edge source="에이블리코퍼레이션_에이블리" target="오아시스_오아시스마켓"/>
+<edge source="에이블리코퍼레이션_에이블리" target="뉴넥스_브랜디"/>
+<edge source="에이블리코퍼레이션_에이블리" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="에이블리코퍼레이션_에이블리" target="와디즈_와디즈"/>
+<edge source="에이블리코퍼레이션_에이블리" target="트렌비_트렌비"/>
+<edge source="에이블리코퍼레이션_에이블리" target="안다르_안다르"/>
+<edge source="에이블리코퍼레이션_에이블리" target="라포랩스_퀸잇"/>
+<edge source="에이블리코퍼레이션_에이블리" target="발란_발란"/>
+<edge source="에이블리코퍼레이션_에이블리" target="정육각_정육각"/>
+<edge source="에이블리코퍼레이션_에이블리" target="마인이스_차란"/>
+<edge source="그로비교육_슈퍼브이" target="데이원컴퍼니_패스트캠퍼스"/>
+<edge source="그로비교육_슈퍼브이" target="마인이스_차란"/>
+<edge source="리디_리디" target="데이원컴퍼니_패스트캠퍼스"/>
+<edge source="리디_리디" target="레진엔터테인먼트_레진코믹스"/>
+<edge source="리디_리디" target="밀리의서재_밀리의서재"/>
+<edge source="리디_리디" target="마인이스_차란"/>
+<edge source="부릉_부릉프렌즈" target="딜리셔스_신상마켓"/>
+<edge source="부릉_부릉프렌즈" target="트릿지_트릿지"/>
+<edge source="부릉_부릉프렌즈" target="스마트푸드네트웍스_차별화상회"/>
+<edge source="부릉_부릉프렌즈" target="파스토_파스토"/>
+<edge source="부릉_부릉프렌즈" target="마인이스_차란"/>
+<edge source="몰로코_몰로코" target="마인이스_차란"/>
+<edge source="딜리셔스_신상마켓" target="트릿지_트릿지"/>
+<edge source="딜리셔스_신상마켓" target="오아시스_오아시스마켓"/>
+<edge source="딜리셔스_신상마켓" target="뉴넥스_브랜디"/>
+<edge source="딜리셔스_신상마켓" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="딜리셔스_신상마켓" target="와디즈_와디즈"/>
+<edge source="딜리셔스_신상마켓" target="트렌비_트렌비"/>
+<edge source="딜리셔스_신상마켓" target="안다르_안다르"/>
+<edge source="딜리셔스_신상마켓" target="라포랩스_퀸잇"/>
+<edge source="딜리셔스_신상마켓" target="발란_발란"/>
+<edge source="딜리셔스_신상마켓" target="정육각_정육각"/>
+<edge source="딜리셔스_신상마켓" target="스마트푸드네트웍스_차별화상회"/>
+<edge source="딜리셔스_신상마켓" target="마인이스_차란"/>
+<edge source="딜리셔스_신상마켓" target="파스토_파스토"/>
+<edge source="트릿지_트릿지" target="오아시스_오아시스마켓"/>
+<edge source="트릿지_트릿지" target="뉴넥스_브랜디"/>
+<edge source="트릿지_트릿지" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="트릿지_트릿지" target="와디즈_와디즈"/>
+<edge source="트릿지_트릿지" target="트렌비_트렌비"/>
+<edge source="트릿지_트릿지" target="안다르_안다르"/>
+<edge source="트릿지_트릿지" target="라포랩스_퀸잇"/>
+<edge source="트릿지_트릿지" target="발란_발란"/>
+<edge source="트릿지_트릿지" target="정육각_정육각"/>
+<edge source="트릿지_트릿지" target="스마트푸드네트웍스_차별화상회"/>
+<edge source="트릿지_트릿지" target="마인이스_차란"/>
+<edge source="트릿지_트릿지" target="파스토_파스토"/>
+<edge source="스마트푸드네트웍스_차별화상회" target="파스토_파스토"/>
+<edge source="스마트푸드네트웍스_차별화상회" target="마인이스_차란"/>
+<edge source="카카오브이엑스_카카오골프예약" target="베어로보틱스_서비"/>
+<edge source="카카오브이엑스_카카오골프예약" target="파스토_파스토"/>
+<edge source="카카오브이엑스_카카오골프예약" target="마인이스_차란"/>
+<edge source="오아시스_오아시스마켓" target="뉴넥스_브랜디"/>
+<edge source="오아시스_오아시스마켓" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="오아시스_오아시스마켓" target="와디즈_와디즈"/>
+<edge source="오아시스_오아시스마켓" target="트렌비_트렌비"/>
+<edge source="오아시스_오아시스마켓" target="안다르_안다르"/>
+<edge source="오아시스_오아시스마켓" target="라포랩스_퀸잇"/>
+<edge source="오아시스_오아시스마켓" target="발란_발란"/>
+<edge source="오아시스_오아시스마켓" target="정육각_정육각"/>
+<edge source="오아시스_오아시스마켓" target="마인이스_차란"/>
+<edge source="한국신용데이터_캐시노트" target="핏펫_핏펫"/>
+<edge source="한국신용데이터_캐시노트" target="마인이스_차란"/>
+<edge source="여기어때_여기어떄" target="마인이스_차란"/>
+<edge source="데이원컴퍼니_패스트캠퍼스" target="레진엔터테인먼트_레진코믹스"/>
+<edge source="데이원컴퍼니_패스트캠퍼스" target="밀리의서재_밀리의서재"/>
+<edge source="데이원컴퍼니_패스트캠퍼스" target="마인이스_차란"/>
+<edge source="뉴넥스_브랜디" target="피스피스스튜디오_마르디메크르디"/>
+<edge source="뉴넥스_브랜디" target="와디즈_와디즈"/>
+<edge source="뉴넥스_브랜디" target="트렌비_트렌비"/>
+<edge source="뉴넥스_브랜디" target="안다르_안다르"/>
+<edge source="뉴넥스_브랜디" target="라포랩스_퀸잇"/>
+<edge source="뉴넥스_브랜디" target="발란_발란"/>
+<edge source="뉴넥스_브랜디" target="정육각_정육각"/>
+<edge source="뉴넥스_브랜디" target="마인이스_차란"/>
+<edge source="직방_직방" target="패스트파이브_패스트파이브"/>
+<edge source="직방_직방" target="마인이스_차란"/>
+<edge source="패스트파이브_패스트파이브" target="마인이스_차란"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="와디즈_와디즈"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="트렌비_트렌비"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="안다르_안다르"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="라포랩스_퀸잇"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="발란_발란"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="정육각_정육각"/>
+<edge source="피스피스스튜디오_마르디메크르디" target="마인이스_차란"/>
+<edge source="와디즈_와디즈" target="트렌비_트렌비"/>
+<edge source="와디즈_와디즈" target="안다르_안다르"/>
+<edge source="와디즈_와디즈" target="라포랩스_퀸잇"/>
+<edge source="와디즈_와디즈" target="발란_발란"/>
+<edge source="와디즈_와디즈" target="정육각_정육각"/>
+<edge source="와디즈_와디즈" target="마인이스_차란"/>
+<edge source="오케스트로_심포니 인공지능" target="마인이스_차란"/>
+<edge source="트렌비_트렌비" target="안다르_안다르"/>
+<edge source="트렌비_트렌비" target="라포랩스_퀸잇"/>
+<edge source="트렌비_트렌비" target="발란_발란"/>
+<edge source="트렌비_트렌비" target="정육각_정육각"/>
+<edge source="트렌비_트렌비" target="마인이스_차란"/>
+<edge source="의식주컴퍼니_런드리고" target="핏펫_핏펫"/>
+<edge source="의식주컴퍼니_런드리고" target="마인이스_차란"/>
+<edge source="안다르_안다르" target="라포랩스_퀸잇"/>
+<edge source="안다르_안다르" target="발란_발란"/>
+<edge source="안다르_안다르" target="정육각_정육각"/>
+<edge source="안다르_안다르" target="마인이스_차란"/>
+<edge source="마인이스_차란" target="베어로보틱스_서비"/>
+<edge source="마인이스_차란" target="파스토_파스토"/>
+<edge source="마인이스_차란" target="라포랩스_퀸잇"/>
+<edge source="마인이스_차란" target="발란_발란"/>
+<edge source="마인이스_차란" target="정육각_정육각"/>
+<edge source="마인이스_차란" target="핏펫_핏펫"/>
+<edge source="마인이스_차란" target="레진엔터테인먼트_레진코믹스"/>
+<edge source="마인이스_차란" target="더스윙_스윙"/>
+<edge source="마인이스_차란" target="밀리의서재_밀리의서재"/>
+<edge source="베어로보틱스_서비" target="파스토_파스토"/>
+<edge source="라포랩스_퀸잇" target="발란_발란"/>
+<edge source="라포랩스_퀸잇" target="정육각_정육각"/>
+<edge source="발란_발란" target="정육각_정육각"/>
+<edge source="레진엔터테인먼트_레진코믹스" target="밀리의서재_밀리의서재"/>
+</graph></graphml>
